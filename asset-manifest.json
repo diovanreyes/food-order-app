@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-order-app/static/css/main.65c23de4.css",
+    "main.js": "/food-order-app/static/js/main.210aa4f0.js",
+    "static/media/CG_EJpLVAAEOH5n.png": "/food-order-app/static/media/CG_EJpLVAAEOH5n.aa47af413bdca35b446a.png",
+    "static/media/McDonalds-logo.png": "/food-order-app/static/media/McDonalds-logo.09a07755f108b780b538.png",
+    "index.html": "/food-order-app/index.html",
+    "main.65c23de4.css.map": "/food-order-app/static/css/main.65c23de4.css.map",
+    "main.210aa4f0.js.map": "/food-order-app/static/js/main.210aa4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c23de4.css",
+    "static/js/main.210aa4f0.js"
+  ]
+}
